@@ -194,3 +194,10 @@ An HTML form is used to collect user input. The user input is most often sent to
 </body>
 </html>
 ```
+
+## css Funktioner / Ændringer
+- Tilføjet base reset (margin, padding og font)
+- Stylet header med fast position og afrundet titel
+- Lavet banner med velkomsttekst ovenpå billede
+- Tilføjet navigation med hover-effekt
+- Stylet indhold og artikler
