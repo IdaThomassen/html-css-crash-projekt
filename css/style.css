@@ -66,7 +66,7 @@ nav li{
 }
 nav li a{
   text-decoration: none;
-  color: #4B4B4B;
+  color: #ffffff;
 }
 nav li a:hover{
   text-decoration: underline;
@@ -75,6 +75,15 @@ nav li a.join{
   color: #F63232;
 }
 main{
+  a{
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+  color: #F63232;
+}
   max-width: 100%;
   width: 1200px;
   margin: 80px auto;
